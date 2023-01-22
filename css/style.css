@@ -9,3 +9,6 @@
     -webkit-filter: invert(50%); /* Safari/Chrome */
     filter: invert(50%);
 }
+.icon{
+    width:25px ;
+}
